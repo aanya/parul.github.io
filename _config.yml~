@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://parul.github.io
-title: Parul's Weblog
-subtitle: Welcome Folks!!!
-author: Parul Midha
+url: http://aanya.github.io
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: http://google.com/search
-description: This is Parul Midha's personal blog. She is an Post Graduate student at Delhi University and likes to write about technology. Stay tuned to follow her updates on Twitter and Facebook too.
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -73,7 +73,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: true
+google_plus_one: false
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: true
+facebook_like: false
