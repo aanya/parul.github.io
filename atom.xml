@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Parul's Weblog]]></title>
+  <link href="http://parul.github.io/atom.xml" rel="self"/>
+  <link href="http://parul.github.io/"/>
+  <updated>2013-06-11T09:09:17+05:30</updated>
+  <id>http://parul.github.io/</id>
+  <author>
+    <name><![CDATA[Parul Midha]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

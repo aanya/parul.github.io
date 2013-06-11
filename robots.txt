@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://parul.github.io/sitemap.xml 
